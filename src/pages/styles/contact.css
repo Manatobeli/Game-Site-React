@@ -1,0 +1,17 @@
+.contact-page {
+  min-height: 100vh;
+  padding: 6rem 1rem;
+}
+
+.contact-container {
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.contact-title {
+  font-size: 1.875rem;
+  font-family: var(--gaming-font);
+  color: var(--accent-color);
+  text-align: center;
+  margin-bottom: 2rem;
+}
